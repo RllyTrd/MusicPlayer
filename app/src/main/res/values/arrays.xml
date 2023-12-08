@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="SongList">
+        <item>@string/title1</item>
+        <item>@string/title2</item>
+        <item>@string/title3</item>
+        <item>@string/title4</item>
+        <item>@string/title5</item>
+    </array>
+</resources>

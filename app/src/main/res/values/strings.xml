@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="loop">Looping</string>
+    <string name="loop_summary">Continuous Music Play</string>
+    <string name="shuffle">Shuffling</string>
+    <string name="shuffle_summary">Shuffled Song Order</string>
+    <string name="title1">Ethernight Club</string>
+    <string name="title2">Robobozo</string>
+    <string name="title3">Go Cart - Drop Mix</string>
+    <string name="title4">Level Up</string>
+    <string name="title5">Monkeys Spinning Monkeys</string>
+    <string name="settings_label">Settings...</string>
+    <string name="about_label">About...</string>
+    <string name="sample_text">"Ethernight Club" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
+    "Robobozo" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
+    "Go Cart - Drop Mix" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
+"Level Up" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
+
+    "Monkeys Spinning Monkeys" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/</string>
+</resources>

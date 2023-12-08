@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:key = "loop" android:title="@string/loop" android:summary="@string/loop_summary" android:defaultValue="true" />
+    <CheckBoxPreference
+        android:key="shuffle" android:title="@string/shuffle" android:summary="@string/shuffle_summary" android:defaultValue="true" />
+</PreferenceScreen>
